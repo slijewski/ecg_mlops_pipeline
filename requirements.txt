@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+prometheus-client
+pytest
+requests
+kagglehub[pandas-datasets]
