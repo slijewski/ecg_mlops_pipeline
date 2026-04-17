@@ -39,7 +39,7 @@ uv pip install -r requirements.txt
 Train the 1D-CNN. The script will automatically fetch the required ~50MB data from Kaggle (ECG Heartbeat Categorization Dataset) on first run.
 
 ```bash
-uv run src/train.py
+uv run python -m src.train
 ```
 
 ### 3. Launch the MLOps Container Infrastructure
